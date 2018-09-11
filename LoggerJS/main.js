@@ -5,6 +5,7 @@ var channel = message.channel;
 
 Client.on('message', message => {
     if(message.content = "Ur Mum Gey"){
+        message.delete();
         channel.send("no u");
     }
 });
