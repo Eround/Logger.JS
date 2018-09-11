@@ -10,5 +10,5 @@ Client.on('message', message => {
     }
 });
 
-var token = "NDg5MTgzNzQ3NTUyNTc1NDg4.DnnF0g.t-jIL-ZGXGkQuMwbn7gBPLCm5rM";
+var token = "nah bro";
 Client.login(token);
